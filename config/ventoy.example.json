@@ -1,0 +1,14 @@
+{
+  "control": [
+    { "VTOY_MENU_LANGUAGE": "zh_CN" },
+    { "VTOY_DEFAULT_MENU_MODE": "1" },
+    { "VTOY_TREE_VIEW_MENU_STYLE": "1" },
+    { "VTOY_DEFAULT_SEARCH_ROOT": "/ISO" }
+  ],
+  "menu_alias": [
+    { "image": "/ISO/PE/example-pe.iso", "alias": "PE 维护镜像（示例）" },
+    { "image": "/ISO/Windows/example-windows.iso", "alias": "系统安装镜像（示例）" },
+    { "image": "/ISO/Linux/example-linux.iso", "alias": "Linux Live 镜像（示例）" },
+    { "image": "/ISO/Tools/example-tool.img", "alias": "维护工具镜像（示例）" }
+  ]
+}
