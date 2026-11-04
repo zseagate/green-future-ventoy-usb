@@ -1,5 +1,8 @@
 # 绿启未来 Ventoy 启动 U 盘制作模板
 
+> 📌 公众号那篇 Ventoy 启动盘文章已有 **4000+ 阅读**。这里是文中提到的模板：目录结构、中文菜单、配置文件，可直接拿去用。
+
+
 本项目记录一套 **Ventoy 启动 U 盘** 的制作架构、中文菜单配置、操作流程和校验脚本，适合用来整理自己的 PE、系统安装镜像和维护工具。
 
 > 本仓库只包含文档、配置模板和 PowerShell 脚本，**不包含任何镜像、PE、WIM、工具二进制或第三方资源**。  
@@ -138,3 +141,15 @@ powershell -ExecutionPolicy Bypass -File .\scripts\validate-menu.ps1 `
 - [制作操作](docs/OPERATIONS.md)
 - [测试清单](docs/TESTING.md)
 - [安全说明](docs/SECURITY.md)
+
+---
+
+## 📖 完整图文教程
+
+这个仓库放的是技术实现本身。想看**图文并茂的完整折腾记录**（踩坑过程、对比测试、效果截图），请关注公众号 **绿启未来工坊**——每个项目的完整记录都在那里。
+
+- 🌐 网站：[www.greenzx.com](https://www.greenzx.com) —— 微型技术服务：小团队系统故障排查 / 轻量化网站搭建 / AI 提效落地
+- 💻 全部项目：[github.com/zseagate](https://github.com/zseagate)
+- ✉️ 联系：zseagate@qq.com
+
+> 一个人做的硬核交付：代码开源、过程留痕、踩坑记录全公开。
